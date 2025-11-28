@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.main')
 @section('content')
 
     <!-- Newsletter Modal Area Start-->
